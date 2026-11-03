@@ -1,0 +1,103 @@
+[OPTIONS]
+Compatibility=1.1 Or later
+Compiled file=srd.chm
+Default Window=Main
+Default topic=Legal.htm
+Default font=Tahoma,8,1
+Contents file=srd.hhc
+Index file=srd.hhk
+Display compile progress=Yes
+Full-text search=Yes
+Enhanced decompilation=Yes
+Language=0x804 中文(中国)
+
+[WINDOWS]
+Main="SRD","srd.hhc","srd.hhk","Legal.htm","Legal.htm",,,,,0x61520,150,0x300E,[400,1,800,451],0x0,0x0,,,,,0
+
+[FILES]
+Basic\AbilitiesandConditions.htm
+Basic\Basics.htm
+Basic\Description.htm
+Class\ClassesI.htm
+Class\ClassesII.htm
+Class\NPCClasses.htm
+Class\PrestigeClasses.htm
+Combat\CombatI.htm
+Combat\CombatII.htm
+Divine\DivineAbilitiesandFeats.htm
+Divine\DivineDomainsandSpells.htm
+Divine\DivineMinions.htm
+Divine\DivineRanksandPowers.htm
+Epic\EpicClasses.htm
+Epic\EpicFeats.htm
+Epic\EpicLevelBasics.htm
+Epic\EpicMagicItems1.htm
+Epic\EpicMagicItems2.htm
+Epic\EpicMonsters(A-E).htm
+Epic\EpicMonsters(G-W).htm
+Epic\EpicObstacles.htm
+Epic\EpicPrestigeClasses.htm
+Epic\EpicSkills.htm
+Epic\EpicSpells.htm
+Equipment\Equipment.htm
+Exploring\CarryingandExploration.htm
+Exploring\Planes.htm
+Exploring\SpecialMaterials.htm
+Exploring\Traps.htm
+Exploring\Treasure.htm
+Exploring\WildernessandEnvironment.htm
+Feat\Feats.htm
+Legal.htm
+Magic Items\MagicItemsI.htm
+Magic Items\MagicItemsII.htm
+Magic Items\MagicItemsIII.htm
+Magic Items\MagicItemsIV.htm
+Magic Items\MagicItemsV.htm
+Magic Items\MagicItemsVI.htm
+Monster\Improving Monsters.htm
+Monster\MonsterFeats.htm
+Monster\MonstersAnimals.htm
+Monster\MonstersasRaces.htm
+Monster\MonstersB-C.htm
+Monster\MonstersD-De.htm
+Monster\MonstersDi-Do.htm
+Monster\MonstersDr-Dw.htm
+Monster\MonstersE-F.htm
+Monster\MonstersG.htm
+Monster\MonstersH-I.htm
+Monster\MonstersIntro-A.htm
+Monster\MonstersK-L.htm
+Monster\MonstersM-N.htm
+Monster\MonstersO-R.htm
+Monster\MonstersS.htm
+Monster\MonstersT-Z.htm
+Monster\MonstersVermin.htm
+Monster\TypesSubtypesAbilities.htm
+Psionic\PowerList.htm
+Psionic\PowersOverview.htm
+Psionic\PsionicClasses.htm
+Psionic\PsionicItems.htm
+Psionic\PsionicMonsters.htm
+Psionic\PsionicPowersA-C.htm
+Psionic\PsionicPowersD-F.htm
+Psionic\PsionicPowersG-P.htm
+Psionic\PsionicPowersQ-W.htm
+Psionic\PsionicRaces.htm
+Psionic\PsionicsFeats.htm
+Psionic\PsionicSkills.htm
+Psionic\PsionicSpells.htm
+Race\Races.htm
+Skill\SkillsI.htm
+Skill\SkillsII.htm
+Spell\MagicOverview.htm
+Spell\SpellListI.htm
+Spell\SpellListII.htm
+Spell\SpellsA-B.htm
+Spell\SpellsC.htm
+Spell\SpellsD-E.htm
+Spell\SpellsF-G.htm
+Spell\SpellsH-L.htm
+Spell\SpellsM-O.htm
+Spell\SpellsP-R.htm
+Spell\SpellsS.htm
+Spell\SpellsT-Z.htm
