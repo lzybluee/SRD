@@ -1,0 +1,400 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Legal">
+              <param name="Local" value="Legal.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="AbilitiesandConditions">
+              <param name="Local" value="Basic/AbilitiesandConditions.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Basics">
+              <param name="Local" value="Basic/Basics.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Description">
+              <param name="Local" value="Basic/Description.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="ClassesI">
+              <param name="Local" value="Class/ClassesI.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="ClassesII">
+              <param name="Local" value="Class/ClassesII.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="NPCClasses">
+              <param name="Local" value="Class/NPCClasses.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PrestigeClasses">
+              <param name="Local" value="Class/PrestigeClasses.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="CombatI">
+              <param name="Local" value="Combat/CombatI.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="CombatII">
+              <param name="Local" value="Combat/CombatII.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="DivineAbilitiesandFeats">
+              <param name="Local" value="Divine/DivineAbilitiesandFeats.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="DivineDomainsandSpells">
+              <param name="Local" value="Divine/DivineDomainsandSpells.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="DivineMinions">
+              <param name="Local" value="Divine/DivineMinions.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="DivineRanksandPowers">
+              <param name="Local" value="Divine/DivineRanksandPowers.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicClasses">
+              <param name="Local" value="Epic/EpicClasses.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicFeats">
+              <param name="Local" value="Epic/EpicFeats.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicLevelBasics">
+              <param name="Local" value="Epic/EpicLevelBasics.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicMagicItems1">
+              <param name="Local" value="Epic/EpicMagicItems1.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicMagicItems2">
+              <param name="Local" value="Epic/EpicMagicItems2.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicMonsters(A-E)">
+              <param name="Local" value="Epic/EpicMonsters(A-E).htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicMonsters(G-W)">
+              <param name="Local" value="Epic/EpicMonsters(G-W).htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicObstacles">
+              <param name="Local" value="Epic/EpicObstacles.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicPrestigeClasses">
+              <param name="Local" value="Epic/EpicPrestigeClasses.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicSkills">
+              <param name="Local" value="Epic/EpicSkills.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="EpicSpells">
+              <param name="Local" value="Epic/EpicSpells.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Equipment">
+              <param name="Local" value="Equipment/Equipment.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="CarryingandExploration">
+              <param name="Local" value="Exploring/CarryingandExploration.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Planes">
+              <param name="Local" value="Exploring/Planes.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Traps">
+              <param name="Local" value="Exploring/Traps.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Treasure">
+              <param name="Local" value="Exploring/Treasure.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="WildernessandEnvironment">
+              <param name="Local" value="Exploring/WildernessandEnvironment.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Feats">
+              <param name="Local" value="Feat/Feats.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MagicItemsI">
+              <param name="Local" value="Magic Items/MagicItemsI.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MagicItemsII">
+              <param name="Local" value="Magic Items/MagicItemsII.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MagicItemsIII">
+              <param name="Local" value="Magic Items/MagicItemsIII.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MagicItemsIV">
+              <param name="Local" value="Magic Items/MagicItemsIV.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MagicItemsV">
+              <param name="Local" value="Magic Items/MagicItemsV.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MagicItemsVI">
+              <param name="Local" value="Magic Items/MagicItemsVI.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpecialMaterials">
+              <param name="Local" value="Magic Items/SpecialMaterials.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Improving Monsters">
+              <param name="Local" value="Monster/Improving Monsters.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonsterFeats">
+              <param name="Local" value="Monster/MonsterFeats.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersAnimals">
+              <param name="Local" value="Monster/MonstersAnimals.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersB-C">
+              <param name="Local" value="Monster/MonstersB-C.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersD-De">
+              <param name="Local" value="Monster/MonstersD-De.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersDi-Do">
+              <param name="Local" value="Monster/MonstersDi-Do.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersDr-Dw">
+              <param name="Local" value="Monster/MonstersDr-Dw.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersE-F">
+              <param name="Local" value="Monster/MonstersE-F.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersG">
+              <param name="Local" value="Monster/MonstersG.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersH-I">
+              <param name="Local" value="Monster/MonstersH-I.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersIntro-A">
+              <param name="Local" value="Monster/MonstersIntro-A.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersK-L">
+              <param name="Local" value="Monster/MonstersK-L.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersM-N">
+              <param name="Local" value="Monster/MonstersM-N.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersO-R">
+              <param name="Local" value="Monster/MonstersO-R.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersS">
+              <param name="Local" value="Monster/MonstersS.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersT-Z">
+              <param name="Local" value="Monster/MonstersT-Z.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersVermin">
+              <param name="Local" value="Monster/MonstersVermin.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="TypesSubtypesAbilities">
+              <param name="Local" value="Monster/TypesSubtypesAbilities.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PowerList">
+              <param name="Local" value="Psionic/PowerList.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PowersOverview">
+              <param name="Local" value="Psionic/PowersOverview.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicClasses">
+              <param name="Local" value="Psionic/PsionicClasses.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicItems">
+              <param name="Local" value="Psionic/PsionicItems.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicMonsters">
+              <param name="Local" value="Psionic/PsionicMonsters.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicPowersA-C">
+              <param name="Local" value="Psionic/PsionicPowersA-C.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicPowersD-F">
+              <param name="Local" value="Psionic/PsionicPowersD-F.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicPowersG-P">
+              <param name="Local" value="Psionic/PsionicPowersG-P.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicPowersQ-W">
+              <param name="Local" value="Psionic/PsionicPowersQ-W.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicRaces">
+              <param name="Local" value="Psionic/PsionicRaces.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicsFeats">
+              <param name="Local" value="Psionic/PsionicsFeats.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicSkills">
+              <param name="Local" value="Psionic/PsionicSkills.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="PsionicSpells">
+              <param name="Local" value="Psionic/PsionicSpells.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MonstersasRaces">
+              <param name="Local" value="Race/MonstersasRaces.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Races">
+              <param name="Local" value="Race/Races.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SkillsI">
+              <param name="Local" value="Skill/SkillsI.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SkillsII">
+              <param name="Local" value="Skill/SkillsII.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="MagicOverview">
+              <param name="Local" value="Spell/MagicOverview.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellListI">
+              <param name="Local" value="Spell/SpellListI.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellListII">
+              <param name="Local" value="Spell/SpellListII.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsA-B">
+              <param name="Local" value="Spell/SpellsA-B.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsC">
+              <param name="Local" value="Spell/SpellsC.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsD-E">
+              <param name="Local" value="Spell/SpellsD-E.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsF-G">
+              <param name="Local" value="Spell/SpellsF-G.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsH-L">
+              <param name="Local" value="Spell/SpellsH-L.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsM-O">
+              <param name="Local" value="Spell/SpellsM-O.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsP-R">
+              <param name="Local" value="Spell/SpellsP-R.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsS">
+              <param name="Local" value="Spell/SpellsS.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="SpellsT-Z">
+              <param name="Local" value="Spell/SpellsT-Z.htm">
+            </OBJECT>
+        </UL>
+    </UL>
+</BODY>
+</HTML>

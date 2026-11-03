@@ -1,18 +1,26 @@
 [OPTIONS]
-Compatibility=1.1 Or later
-Compiled file=srd.chm
-Default Window=Main
+Title=SRD
+Compiled file=SRD.chm
+Error log file=
 Default topic=Legal.htm
-Default font=Tahoma,8,1
-Contents file=srd.hhc
-Index file=srd.hhk
-Display compile progress=Yes
+Language=
+Full text search stop list file=
+Contents file=SRD.hhc
+Index file=SRD.hhk
+Binary TOC=No
+Auto index=Yes
+Binary Index=No
+Create CHI file=No
 Full-text search=Yes
+Display compile progress=Yes
+Display compile notes=Yes
+Default window=Main
 Enhanced decompilation=Yes
-Language=0x804 中文(中国)
+Flat=No
+Compatibility=1.1 or later
 
 [WINDOWS]
-Main="SRD","srd.hhc","srd.hhk","Legal.htm","Legal.htm",,,,,0x61520,150,0x300E,[400,1,800,451],0x0,0x0,,,,,0
+Main="SRD","SRD.hhc","SRD.hhk","Legal.htm","Legal.htm",,,,,0x61520,150,0x300E,[400,1,800,451],0x0,0x0,,,,,0
 
 [FILES]
 Basic\AbilitiesandConditions.htm
@@ -42,7 +50,6 @@ Epic\EpicSpells.htm
 Equipment\Equipment.htm
 Exploring\CarryingandExploration.htm
 Exploring\Planes.htm
-Exploring\SpecialMaterials.htm
 Exploring\Traps.htm
 Exploring\Treasure.htm
 Exploring\WildernessandEnvironment.htm
@@ -54,10 +61,10 @@ Magic Items\MagicItemsIII.htm
 Magic Items\MagicItemsIV.htm
 Magic Items\MagicItemsV.htm
 Magic Items\MagicItemsVI.htm
+Magic Items\SpecialMaterials.htm
 Monster\Improving Monsters.htm
 Monster\MonsterFeats.htm
 Monster\MonstersAnimals.htm
-Monster\MonstersasRaces.htm
 Monster\MonstersB-C.htm
 Monster\MonstersD-De.htm
 Monster\MonstersDi-Do.htm
@@ -86,6 +93,7 @@ Psionic\PsionicRaces.htm
 Psionic\PsionicsFeats.htm
 Psionic\PsionicSkills.htm
 Psionic\PsionicSpells.htm
+Race\MonstersasRaces.htm
 Race\Races.htm
 Skill\SkillsI.htm
 Skill\SkillsII.htm
@@ -101,3 +109,4 @@ Spell\SpellsM-O.htm
 Spell\SpellsP-R.htm
 Spell\SpellsS.htm
 Spell\SpellsT-Z.htm
+
