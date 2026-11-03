@@ -103,6 +103,61 @@
             </OBJECT>
         </UL>
         <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Equipment">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Equipment">
+              <param name="Local" value="Equipment/Equipment.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Combat">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="CombatI">
+              <param name="Local" value="Combat/CombatI.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="CombatII">
+              <param name="Local" value="Combat/CombatII.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Exploring">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="CarryingandExploration">
+              <param name="Local" value="Exploring/CarryingandExploration.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Treasure">
+              <param name="Local" value="Exploring/Treasure.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="WildernessandEnvironment">
+              <param name="Local" value="Exploring/WildernessandEnvironment.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Traps">
+              <param name="Local" value="Exploring/Traps.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Planes">
+              <param name="Local" value="Exploring/Planes.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Spell">
         </OBJECT>
         <UL>
@@ -164,61 +219,6 @@
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="SpellsT-Z">
               <param name="Local" value="Spell/SpellsT-Z.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-        </UL>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Exploring">
-        </OBJECT>
-        <UL>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="CarryingandExploration">
-              <param name="Local" value="Exploring/CarryingandExploration.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Treasure">
-              <param name="Local" value="Exploring/Treasure.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="WildernessandEnvironment">
-              <param name="Local" value="Exploring/WildernessandEnvironment.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Traps">
-              <param name="Local" value="Exploring/Traps.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Planes">
-              <param name="Local" value="Exploring/Planes.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-        </UL>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Combat">
-        </OBJECT>
-        <UL>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="CombatI">
-              <param name="Local" value="Combat/CombatI.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="CombatII">
-              <param name="Local" value="Combat/CombatII.htm">
-              <param name="ImageNumber" value="11">
-            </OBJECT>
-        </UL>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Equipment">
-        </OBJECT>
-        <UL>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Equipment">
-              <param name="Local" value="Equipment/Equipment.htm">
               <param name="ImageNumber" value="11">
             </OBJECT>
         </UL>

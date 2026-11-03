@@ -14,13 +14,13 @@ Create CHI file=No
 Full-text search=Yes
 Display compile progress=Yes
 Display compile notes=Yes
-Default window=Main
+Default window=srd
 Enhanced decompilation=Yes
 Flat=No
 Compatibility=1.1 or later
 
 [WINDOWS]
-Main="SRD","SRD.hhc","SRD.hhk","Legal.htm","Legal.htm",,,,,0x61520,150,0x300E,[400,1,800,451],0x0,0x0,,,,,0
+srd="System Reference Document","SRD.hhc","SRD.hhk","Legal.htm","Legal.htm",,,,,0x00063520,,0x0000184E,[25,25,800,600],,,,0,0,0,0
 
 [FILES]
 Basic\AbilitiesandConditions.htm
