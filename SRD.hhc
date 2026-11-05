@@ -382,12 +382,12 @@
               <param name="ImageNumber" value="11">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Powers Overview">
+              <param name="Name" value="Psionic Powers Overview">
               <param name="Local" value="Psionic/PowersOverview.htm">
               <param name="ImageNumber" value="11">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Power List">
+              <param name="Name" value="Psionic Power List">
               <param name="Local" value="Psionic/PowerList.htm">
               <param name="ImageNumber" value="11">
             </OBJECT>
