@@ -32,7 +32,7 @@
               <param name="ImageNumber" value="11">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Special Abilities & Conditions">
+              <param name="Name" value="Special Abilities &amp; Conditions">
               <param name="Local" value="Basic/AbilitiesandConditions.htm">
               <param name="ImageNumber" value="11">
             </OBJECT>
@@ -132,7 +132,7 @@
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Carrying, Movement & Exploration">
+              <param name="Name" value="Carrying, Movement &amp; Exploration">
               <param name="Local" value="Exploring/CarryingandExploration.htm">
               <param name="ImageNumber" value="11">
             </OBJECT>
@@ -142,7 +142,7 @@
               <param name="ImageNumber" value="11">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Wilderness, Weather & Environment">
+              <param name="Name" value="Wilderness, Weather &amp; Environment">
               <param name="Local" value="Exploring/WildernessandEnvironment.htm">
               <param name="ImageNumber" value="11">
             </OBJECT>
@@ -352,7 +352,7 @@
               <param name="ImageNumber" value="11">
             </OBJECT>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Types, Subtypes & Special Abilities">
+              <param name="Name" value="Types, Subtypes &amp; Special Abilities">
               <param name="Local" value="Monster/TypesSubtypesAbilities.htm">
               <param name="ImageNumber" value="11">
             </OBJECT>
